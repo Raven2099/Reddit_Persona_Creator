@@ -37,11 +37,11 @@ pip install -r requirements.txt
 ```
 
 ### 3. Set up .env file
-REDDIT_CLIENT_ID=your_reddit_client_id
-REDDIT_CLIENT_SECRET=your_reddit_client_secret
-REDDIT_USER_AGENT=reddit_persona_script
-GEMINI_API_KEY=your_google_gemini_api_key
+- REDDIT_CLIENT_ID=your_reddit_client_id
+- REDDIT_CLIENT_SECRET=your_reddit_client_secret
+- REDDIT_USER_AGENT=reddit_persona_script
+- GEMINI_API_KEY=your_google_gemini_api_key
 
 ## Run the script
-python reddit_persona_gemini.py.
-Enter a reddit url when prompted.
+- python reddit_persona_gemini.py.
+- Enter a reddit url when prompted.
